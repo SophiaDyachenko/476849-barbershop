@@ -1,0 +1,33 @@
+body {
+  font-family: "PTSans", "Arial", sans-serif;
+  font-size: 14px;
+  font-weight: narrowbold;
+  line-height: 24px;
+}
+.visually-hidden {
+  display: none;
+}
+h2,
+.page-title {
+  font-size: 30px;
+  line-height: 42px;
+  color: #000000;
+  text-transform: uppercase;
+}
+.feature-text {
+  font-size: 30px;
+  line-height: 42px;
+  color: #f7f4f1;
+}
+.catalog-category {
+  line-height: 18px;
+  color: #000000;
+}
+.catalog-item-title {
+  line-height: 18px;
+  color: #000000;
+  text-transform: uppercase;
+}
+.login-text {
+  line-height: 120%;
+}
